@@ -1,1 +1,1 @@
-API_KEY = "pk.eyJ1Ijoia2F2ZWhhbWluaSIsImEiOiJjazV4M3pqcnYxZmJwM2RtYzcwOGNtc2xzIn0.62w8upTQq-HjX4hGizpcpw";
+API_KEY = "pk.eyJ1Ijoia2F2ZWhhbWluaSIsImEiOiJjazZmbTV0aHgyYTlnM2VxZjJ5NWFpazV0In0.-EhbqSlmLAGlaKr84zkuNg";
